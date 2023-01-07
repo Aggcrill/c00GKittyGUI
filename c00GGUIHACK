@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/cy4nkidd/scripts/main/c00lgui%20Reborn%20V1.1%20by%20007n7.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/cy4nkidd/scripts/main/c00GGui%20Reborn%20V1.1%20by%20c00GKitty.lua'))()
 
 restorebutton = Instance.new("ScreenGui",game:GetService("CoreGui"))
 
@@ -28,7 +28,7 @@ if game.Players.LocalPlayer.PlayerGui:FindFirstChild("c00GKitty") then
 
 game.Players.LocalPlayer.PlayerGui:FindFirstChild("c00GKitty"):Remove()	end	
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/cy4nkidd/scripts/main/c00lgui%20Reborn%20V1.1%20by%20007n7.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/cy4nkidd/scripts/main/c00GGui%20Reborn%20V1.1%20by%20c00GKitty.lua'))()
 
 end)
 
